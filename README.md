@@ -73,13 +73,13 @@ Ask `Graham` for access.
 Ask the people who contributed to project to do the same.
 Examples can include: *Norske Skapere*, *Bitraf*, *Nordic Fablabs*, *CNC Users*.
 * Upload the part(s) to Fellesverkstedet [Thingiverse account](http://www.thingiverse.com/fellesverkstedet/about).
-Ask `Hans Christian` for access.
+Ask `Hans Christian` or `Jon` for access.
 * Upload the part(s) to [GrabCAD user](https://grabcad.com/felles.verkstedet-1).
 Put a copy of the basic project/part description, and *link to Github* for more details.
-Ask `Hans Christian` for access.
-* (optional) Upload the part to [Sketchup 3D Warehouse]() Fellesverkstedet account.
+Ask `Hans Christian` or `Jon` for access.
+* (optional) Upload the part to Fellesverkstedet [Sketchup 3D Warehouse account](https://3dwarehouse.sketchup.com/by/fellesverkstedet).
 Mostly if it was made in Sketchup, but you should
-Ask `Hans Christian` for access.
+Ask `Hans Christian` or `Jon` for access.
 
 
 ## Ideas
@@ -99,7 +99,7 @@ Benefits: Camera built-in, and is portable.
 * Include some documentation items as part of the workshop rental agreement that users have.
 A minimum could be couple of pictures, and 5-10 lines of description text.
 If we ask people to use the docstation to do this before they leave, less likely to get forgotten.
-Possible workflows: Send an email to `documentation@fellesverkstedet.no`, or put images+text in a specific folder.
+Possible workflows: Send an email to `documentation@fellesverkstedet.no`, or put images+text in a specific folder?
 Automatically extracts the content, builds a webpage and publishes it (possibly not indexed by default?).
 Users can enter their own email, and will then be sent a (view) link to the webpage,
 and an edit-link in case they want to add more information later. Like picture of the piece in its natural habitat.
