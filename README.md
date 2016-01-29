@@ -74,10 +74,10 @@ Ask the people who contributed to project to do the same.
 Examples can include: *Norske Skapere*, *Bitraf*, *Nordic Fablabs*, *CNC Users*.
 * Upload the part(s) to Fellesverkstedet [Thingiverse account](http://www.thingiverse.com/fellesverkstedet/about).
 Ask `Hans Christian` for access.
-* Upload the part(s) to GrabCAD.
+* Upload the part(s) to [GrabCAD user](https://grabcad.com/felles.verkstedet-1).
 Put a copy of the basic project/part description, and *link to Github* for more details.
 Ask `Hans Christian` for access.
-* (optional) Upload the part to Sketchup Warehouse Fellesverkstedet account.
+* (optional) Upload the part to [Sketchup 3D Warehouse]() Fellesverkstedet account.
 Mostly if it was made in Sketchup, but you should
 Ask `Hans Christian` for access.
 
@@ -94,6 +94,8 @@ Camera could be WiFi-enabled and automatically upload the images to docstation c
 Also provide a photobox/lightbox, to help take nice pictures?
 Challenge is big-ish things, which are quite common.
 Could eventually have some screens that one can set up?
+Maybe instead of basing on a desktop/laptop, use a tablet with docking station.
+Benefits: Camera built-in, and is portable.
 * Include some documentation items as part of the workshop rental agreement that users have.
 A minimum could be couple of pictures, and 5-10 lines of description text.
 If we ask people to use the docstation to do this before they leave, less likely to get forgotten.
@@ -113,4 +115,3 @@ for linking physical objects to online documentation.
 Could be used in gallery. System could automatically create these. Docstation would have printer to make these easily.
 Nice with some 'Made at Fellesverkstedet' branding on the template.
 
-Documentation guidelines and tools
